@@ -22,7 +22,7 @@
           <div class="message__subtitle">大事なお仕事探しを応援させてください</div>
           <div class="ceo-message">
             <div class="ceo-message__img-wrapper">
-              <img class="ceo-message__img" src="img/ceo.jpg" width="100" height="100" alt="ショーン・デイビット・ジュニア">
+              <img class="ceo-message__img" src="/img/ceo.jpg" width="100" height="100" alt="ショーン・デイビット・ジュニア">
             </div>
             <div class="ceo-message__text">
               <p>
