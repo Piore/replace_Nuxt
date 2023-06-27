@@ -3,7 +3,7 @@
   <!-- header -->
 <header class="header">
   <div class="header__logo">
-    <a href="."><img src="/img/logo.svg" alt="START"></a>
+    <a href="/"><img src="/img/logo.svg" alt="START"></a>
   </div>
   <div class="header__nav">
     <nav class="gnav">

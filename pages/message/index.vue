@@ -39,7 +39,7 @@
       <!--office-->
       <div class="office">
         <div class="container">
-          <img class="office-img" src="img/office.jpg" width="1100" height="400" alt="会議室">
+          <img class="office-img" src="/img/office.jpg" width="1100" height="400" alt="会議室">
         </div>
       </div>
       <!--/office-->
