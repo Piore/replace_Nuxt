@@ -8,7 +8,7 @@
   <div class="header__nav">
     <nav class="gnav">
       <ul class="gnav__list">
-        <li class="gnav__item"><a class="gnav__link gnav__link--active" href=".">ホーム</a></li>
+        <li class="gnav__item"><a class="gnav__link gnav__link--active" href="/">ホーム</a></li>
         <li class="gnav__item"><a class="gnav__link" href="/message">メッセージ</a></li>
         <li class="gnav__item"><a class="gnav__link" href="/company">会社概要</a></li>
       </ul>
